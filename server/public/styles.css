@@ -14,13 +14,24 @@ header {
 .team {
   width: 50%;
   height: 200px;
+
   float: left;
 }
 
 .team1 {
   background-color: tomato;
+  text-align: center;
+
+
 }
 
 .team2 {
   background-color: plum;
+  text-align: center;
+
+
+}
+
+.score-button {
+  border-radius: 3px;
 }
